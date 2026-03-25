@@ -1,6 +1,6 @@
 Azure Repos Extension for Visual Studio Code 
 
-Copyright (c) Microsoft Corporation
+Copyright (c) Ernesto Gonzalez Marrero
 
 All rights reserved. 
 
